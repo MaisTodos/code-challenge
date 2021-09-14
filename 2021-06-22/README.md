@@ -20,6 +20,6 @@ Você também terá que pensar em:
 - (Aspira)[github.com/russianbb]
 - (Carla)[github.com/]
 - (Carol)[github.com/camont1]
-- (Isa)[github.com/]
+- (Isa)[github.com/IsabelaToso]
 - (Marcela)[github.com/marcelamotta]
 - (Murilo)[github.com/muriloviana]
